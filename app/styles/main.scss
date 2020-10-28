@@ -1,0 +1,17 @@
+/* @import "~normalize.css"; */
+
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/roboto-regular-webfont.woff2") format("woff2");
+  font-weight: 400;
+}
+.container {
+  width: 500px;
+  margin: 0 auto;
+
+  h1 {
+    font-family: "Roboto", sans-serif;
+    color: green;
+    font-size: 50px;
+  }
+}

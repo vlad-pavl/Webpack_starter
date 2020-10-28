@@ -1,0 +1,12 @@
+.DS_Store
+.DS_Store?
+._*
+.vscode
+.github
+.env
+ehthumbs.db
+Thumbs.db
+node_modules
+dist
+package-lock.json
+/**/*.log*
